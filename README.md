@@ -4,3 +4,4 @@
 | -------- | ------------ | ------- |
 | C++      | QtWebsockets | ✅       |
 | python   | websockets   | ✅       |
+| python   | flask-sock   | ✅       |
